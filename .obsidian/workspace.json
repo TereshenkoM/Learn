@@ -112,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Работа.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из Работа"
             }
           },
           {
@@ -140,12 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Работа.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Работа"
             }
           },
           {
@@ -177,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c7a180c175b719c8",
+  "active": "184520b5e85d2d93",
   "lastOpenFiles": [
     "Алгоритмы.md",
     "Работа.md"
