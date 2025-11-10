@@ -1,0 +1,46 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="aiohttp" />
+          <option value="aiokafka" />
+          <option value="aiosignal" />
+          <option value="anyio" />
+          <option value="async-timeout" />
+          <option value="attrs" />
+          <option value="certifi" />
+          <option value="charset-normalizer" />
+          <option value="click" />
+          <option value="fastapi" />
+          <option value="frozenlist" />
+          <option value="grpcio" />
+          <option value="grpcio-tools" />
+          <option value="h11" />
+          <option value="idna" />
+          <option value="Jinja2" />
+          <option value="kafka-python" />
+          <option value="Markdown" />
+          <option value="MarkupSafe" />
+          <option value="multidict" />
+          <option value="packaging" />
+          <option value="protobuf" />
+          <option value="pydantic" />
+          <option value="pydub" />
+          <option value="python-dotenv" />
+          <option value="python-ulid" />
+          <option value="requests" />
+          <option value="sniffio" />
+          <option value="starlette" />
+          <option value="typing_extensions" />
+          <option value="urllib3" />
+          <option value="uvicorn" />
+          <option value="websockets" />
+          <option value="yarl" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
