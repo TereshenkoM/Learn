@@ -1,0 +1,2 @@
+regex:([0-9A-Za-z\-_.]+)\.apps\.googleusercontent\.com==REDACTED_GOOGLE_OAUTH_CLIENT_ID
+regex:([A-Za-z0-9-_]{20,})==REDACTED_GOOGLE_OAUTH_CLIENT_SECRET
